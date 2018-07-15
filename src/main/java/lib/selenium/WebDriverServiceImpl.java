@@ -154,5 +154,9 @@ public class WebDriverServiceImpl extends WebDriverListener implements WebDriver
 		driver.getCurrentUrl();
 		
 	}
+	public void verifyurl1() {
+		driver.getCurrentUrl();
+		
+	}
 
 }
