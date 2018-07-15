@@ -149,5 +149,10 @@ public class WebDriverServiceImpl extends WebDriverListener implements WebDriver
 		// TODO Auto-generated method stub
 		
 	}
+	
+	public void verifyurl() {
+		driver.getCurrentUrl();
+		
+	}
 
 }
