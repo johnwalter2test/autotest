@@ -145,6 +145,11 @@ public class WebDriverServiceImpl extends WebDriverListener implements WebDriver
 		
 	}
 
+	public void closeAllBrowser() {
+		// TODO Auto-generated method stub
+		
+	}
+	
 	public void closeAllBrowsers() {
 		// TODO Auto-generated method stub
 		
