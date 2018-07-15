@@ -1,6 +1,4 @@
-package lib.selenium;
-
-import org.openqa.selenium.By;
+mport org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchFrameException;
 import org.openqa.selenium.WebElement;
 
@@ -145,15 +143,14 @@ public class WebDriverServiceImpl extends WebDriverListener implements WebDriver
 		
 	}
 
-	public void closeAllBrowsers() {
+	public void closeAllBrowser() {
 		// TODO Auto-generated method stub
 		
 	}
 	
-	public void verifyurl() {
-		driver.getCurrentUrl();
+	public void closeAllBrowsers() {
+		// TODO Auto-generated method stub
 		
 	}
-	
 
 }
